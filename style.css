@@ -1,0 +1,33 @@
+.title{
+
+	color: red;
+	font-size: 20 px;
+}
+
+.text{
+	color: green;
+}
+.description{
+	color: gray;
+	font-size: 30 px;
+	border: black;
+	background-color: black;
+}
+.image{
+width: 250 px;
+left: 20 px;
+position: relative;
+
+}
+.chart{
+	height:100;
+	width:100;
+}
+.circle{
+stroke:black;
+stroke-width:3;
+fill:red;
+x:50px;
+cy:50px;
+r:40 px;
+}
