@@ -19,15 +19,8 @@ left: 20 px;
 position: relative;
 
 }
-.chart{
-	height:100;
-	width:100;
-}
-.circle{
-stroke:black;
-stroke-width:3;
-fill:red;
-x:50px;
-cy:50px;
-r:40 px;
+.button{
+
+	position: relative;
+	left: 200 px;
 }
